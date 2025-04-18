@@ -4,7 +4,7 @@
 - db = sqlite
 
 ## how to run
-copy directory to local
+clone git *main* branch to local
 make sure to install all dependencies (php, laravel, nodejs, nextjs)
 run
 ```
