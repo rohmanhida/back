@@ -1,7 +1,7 @@
 ## structure
-backend = laravel
-frontend = nextjs
-db = sqlite
+- backend = laravel
+- frontend = nextjs
+- db = sqlite
 
 ## how to run
 copy directory to local
