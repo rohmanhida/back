@@ -21,6 +21,13 @@ npm install
 npm run dev
 ```
 
+## run in docker
+- run
+```
+git clone git@github.com:rohmanhida/back.git
+docker-compose up -d --build
+```
+
 - akses di browser di halaman http://localhost:3000
 
 ## database design
